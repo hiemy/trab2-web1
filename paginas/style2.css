@@ -1,0 +1,160 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: sans-serif;
+    background-color: #ffffff;
+}
+nav{
+    height: 10vh;
+    width: 100%;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    background-color: #262626;
+    gap: 5rem;
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+    padding: 0%;
+}
+
+.logo1{
+    display: flex;
+    align-items: left;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.cor_dos_link{
+    width: 2vh;
+    font-size: 100%;
+    display: flex;
+    color: #ffffff;
+    font-family: adobe-clean,Source Sans Pro,-apple-system,BlinkMacSystemFont,Segoe UI,
+    Roboto,sans-serif;
+    text-decoration: none;
+    padding: 25px;
+}
+
+.links{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20%;
+    height: 100%;
+    gap: 15px;
+}
+
+.link{
+    width: 50px;
+    height: 50px;
+}
+
+
+.icon1{
+    width: 50px;
+    height: 50px;
+}
+
+.icon2{
+    width: 50px;
+    height: 50px;
+}
+
+
+.separacao{
+    width: 100%;
+    height: auto;
+}
+.conteiner_funcionamento{
+    height: 80vh;
+}
+.title{
+    font-family: adobe-clean,Source Sans Pro,-apple-system,
+    BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;
+    font-size: larger; 
+    font-weight: bold;
+    justify-content: center;
+    font-size: 24px;
+    display: flex;
+    margin-right: 7%;
+}
+
+
+.div_total1{
+    display: flex;
+}
+
+.div_img1{
+    width: 50%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.div_p1{
+    margin-right: 7%;
+    width: 50%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+}
+.div_p2{
+    margin-left: 7%;
+    width: 50%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+}
+.div_p3{
+    width: 80%;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+    margin-left: 9%;
+}
+p{
+    font-weight: bold;
+    text-align: justify;
+}
+
+
+.img1{
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+    margin-left: 20px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.img2{
+    text-align: left;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.img5{
+    width: 45%;
+    height: 30%;
+    text-align: center;
+    margin-left: 25%;
+    border-radius: 10px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.img4{
+    border-radius: 10px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+a{
+    padding: 16px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
